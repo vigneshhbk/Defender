@@ -1,0 +1,140 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3250]
+    Renderer: NVIDIA GeForce GTX 860M  
+    Vendor:   NVIDIA
+    VRAM:     1972 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\System.Core.dll (this message is harmless)
+Cannot find 'ShipController' object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Cannot find 'GameController' object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b40 -> priority: 1 
+  Thread -> id: 1f6c -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+Platform assembly: C:\Users\Vignesh\Desktop\Final Project\Game\Cosmic Defender_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.915109 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 669.
+Total: 0.534942 ms (FindLiveObjects: 0.049676 ms CreateObjectMapping: 0.144512 ms MarkObjects: 0.317763 ms  DeleteObjects: 0.022580 ms)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "D_bullet1(Clone)/Quad", Mesh asset path "" Mesh name "Quad"
+ 
+(Filename:  Line: 1291)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "D_bullet2(Clone)/Quad", Mesh asset path "" Mesh name "Quad"
+ 
+(Filename:  Line: 1291)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "D_bullet3(Clone)/Quad", Mesh asset path "" Mesh name "Quad"
+ 
+(Filename:  Line: 1291)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "D_bullet1(Clone)/Quad", Mesh asset path "" Mesh name "Quad"
+ 
+(Filename:  Line: 1291)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "D_bullet2(Clone)/Quad", Mesh asset path "" Mesh name "Quad"
+ 
+(Filename:  Line: 1291)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "D_bullet3(Clone)/Quad", Mesh asset path "" Mesh name "Quad"
+ 
+(Filename:  Line: 1291)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "D_bullet1(Clone)/Quad", Mesh asset path "" Mesh name "Quad"
+ 
+(Filename:  Line: 1291)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "D_bullet2(Clone)/Quad", Mesh asset path "" Mesh name "Quad"
+ 
+(Filename:  Line: 1291)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "D_bullet3(Clone)/Quad", Mesh asset path "" Mesh name "Quad"
+ 
+(Filename:  Line: 1291)
+
+Cannot find 'ShipController' object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Cannot find 'ShipController' object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.652412 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 671.
+Total: 0.594061 ms (FindLiveObjects: 0.055423 ms CreateObjectMapping: 0.046391 ms MarkObjects: 0.484035 ms  DeleteObjects: 0.007800 ms)
+

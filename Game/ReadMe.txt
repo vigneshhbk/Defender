@@ -1,0 +1,1 @@
+Kindly run the game in 1600*900 resolution for better game play.
